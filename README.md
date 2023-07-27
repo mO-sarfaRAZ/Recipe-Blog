@@ -14,3 +14,9 @@ To run this project, install it locally using npm:
 $ npm install
 $ npm start
 ```
+## Technologies Used
+Our website leverages a combination of cutting-edge technologies to deliver a robust and reliable shopping experience:
+
+Front-end: HTML, CSS, JavaScript
+Back-end: Node.js, Express.js
+Database: MongoDB
