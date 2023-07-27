@@ -17,6 +17,6 @@ $ npm start
 ## Technologies Used
 Our website leverages a combination of cutting-edge technologies to deliver a robust and reliable shopping experience:
 
-Front-end: HTML, CSS, JavaScript
-Back-end: Node.js, Express.js
-Database: MongoDB
+1. Front-end: HTML, CSS, JavaScript
+2. Back-end: Node.js, Express.js,ejs
+3. Database: MongoDB
